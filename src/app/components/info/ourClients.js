@@ -180,7 +180,7 @@ const OurClients = () => {
       <div id="info-tesla" className="grid sm:grid md:grid lg:flex xl:flex 2xl:flex lg:justify-center xl:justify-center 2xl:justify-between 2xl:items-center justify-items-center sm:justify-items-center md:justify-items-center lg:items-center xl:items-center gap-[8vw] sm:gap-[5vw] md:gap-[3vw] lg:gap-[2vw] xl:gap-[2vw] 2xl:gap-[2vw] py-[6.7vw]">
         <img src="/images/info-tesla.png" className="w-[145vw] h-auto  max-w-full object-contain"/>
         <div className="grid justify-items-center sm:justify-items-center md:justify-items-center lg:justify-items-start xl:justify-items-start 2xl:justify-items-start items-center 2xl:gap-[1vw] xl:gap-0 lg:gap-0 md:gap-0 sm:gap-0 gap-0 2xl:mb-[1.5vw] xl:mb-0 lg:mb-0 md:mb-0 sm:md-0 mb-0">
-          <p className="text-[clamp(14px,1.1vw,150px)] font-medium text-center sm:text-center md:text-center lg:text-start xl:text-start 2xl:text-start text-[#717171]">
+          <p className="text-[clamp(16px,1.1vw,150px)] font-medium text-center sm:text-center md:text-center lg:text-start xl:text-start 2xl:text-start text-[#717171]">
             Maecenas dignissim justo eget nulla rutrum molestie. Maecenas
             lobortis sem dui, vel rutrum risus tincidunt ullamcorper. Proin eu
             enim metus. Vivamus sed libero ornare, tristique quam in, gravida
