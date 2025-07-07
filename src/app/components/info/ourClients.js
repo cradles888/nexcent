@@ -75,7 +75,7 @@ const OurClients = () => {
             <h1 className="text-[clamp(32px,2.5vw,250px)] font-semibold text-[#4D4D4D] text-center sm:text-center md:text-center lg:text-center xl:text-start 2xl:text-start">
               The unseen of spending three years at Pixelgrade
             </h1>
-            <p className="text-[clamp(16px,1.1vw,100px)] text-[#717171] text-stretch sm:text-stretch md:text-stretch lg:text-stretch xl:text-start 2xl:text-start">
+            <p className="text-[clamp(16px,1.1vw,100px)] text-[#717171] text-center sm:text-center md:text-center lg:text-center xl:text-start 2xl:text-start">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit
               amet justo ipsum. Sed accumsan quam vitae est varius fringilla.
               Pellentesque placerat vestibulum lorem sed porta. Nullam mattis
@@ -162,7 +162,7 @@ const OurClients = () => {
             <h1 className="text-[clamp(32px,2.5vw,250px)] font-semibold text-[#4D4D4D] text-center sm:text-center md:text-center lg:text-start xl:text-start 2xl:text-start">
               How to design your site footer like we did
             </h1>
-            <p className="text-[clamp(16px,1.1vw,150px)] text-[#717171] text-stretch sm:text-stretch md:text-stretch lg:text-stretch xl:text-start 2xl:text-start">
+            <p className="text-[clamp(16px,1.1vw,150px)] text-[#717171] text-center sm:text-center md:text-center lg:text-center xl:text-start 2xl:text-start">
               Donec a eros justo. Fusce egestas tristique ultrices. Nam tempor,
               augue nec tincidunt molestie, massa nunc varius arcu, at
               scelerisque elit erat a magna. Donec quis erat at libero ultrices
@@ -180,7 +180,7 @@ const OurClients = () => {
       <div id="info-tesla" className="grid sm:grid md:grid lg:flex xl:flex 2xl:flex lg:justify-center xl:justify-center 2xl:justify-between 2xl:items-center justify-items-center sm:justify-items-center md:justify-items-center lg:items-center xl:items-center gap-[8vw] sm:gap-[5vw] md:gap-[3vw] lg:gap-[2vw] xl:gap-[2vw] 2xl:gap-[2vw] py-[6.7vw]">
         <img src="/images/info-tesla.png" className="w-[145vw] h-auto  max-w-full object-contain"/>
         <div className="grid justify-items-center sm:justify-items-center md:justify-items-center lg:justify-items-start xl:justify-items-start 2xl:justify-items-start items-center 2xl:gap-[1vw] xl:gap-0 lg:gap-0 md:gap-0 sm:gap-0 gap-0 2xl:mb-[1.5vw] xl:mb-0 lg:mb-0 md:mb-0 sm:md-0 mb-0">
-          <p className="text-[clamp(16px,1.1vw,150px)] font-medium text-stretch sm:text-stretch md:text-stretch lg:text-start xl:text-start 2xl:text-start text-[#717171]">
+          <p className="text-[clamp(16px,1.1vw,150px)] font-medium text-center sm:text-center md:text-center lg:text-start xl:text-start 2xl:text-start text-[#717171]">
             Maecenas dignissim justo eget nulla rutrum molestie. Maecenas
             lobortis sem dui, vel rutrum risus tincidunt ullamcorper. Proin eu
             enim metus. Vivamus sed libero ornare, tristique quam in, gravida
